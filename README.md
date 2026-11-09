@@ -7,7 +7,7 @@ Do more shootings occur in certain boroughs of New York City than in
 others? Is there a relationship between the frequency of shootings and a
 victim’s sex or age? Do factors like geography or a victim’s demographic
 information make it more likely for a shooting to be flagged as a
-murder? I sought to explore and hopefully answer some these questions
+murder? I sought to explore, and hopefully answer, some these questions
 using visualizations and logarithmic regression.
 
 ## Data
